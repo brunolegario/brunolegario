@@ -12,7 +12,7 @@ I combine a strong sense of design with solid technical expertise to build user-
 - **HTML / CSS**
 
 ### 🌱 Currently Learning
-- Backend technologies (via **Boot.dev**) — https://www.boot.dev/u/brunolegario
+- Backend technologies (including Python, Memory Management, HTTP Clients/ Servers, Docker, SQL and RabbitMQ, via **Boot.dev**) — https://www.boot.dev/u/brunolegario
 - **Next.js** (Udemy)
 
 ### 📚 Currently Reading
